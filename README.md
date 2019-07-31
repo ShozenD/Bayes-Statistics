@@ -5,7 +5,7 @@
 ## 2. レポジトリファイル
 <ol>
   <li>data: 分析に用いたデータ</li>
-  <li>env: Pythonの環境設定</li>
+  <li>requirements.txt: Pythonの環境設定</li>
   <li>Bayes_Statistics_Final.ipynb: 最終レポートのJupyter Notebook</li>
 </ol>
 
